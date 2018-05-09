@@ -1,5 +1,7 @@
 # Ideal Lens Ray Tracer
 
+This project is licensed under the terms of the MIT license.
+
 ## Instructions
 SHIFT + ARROWKEYS => move source location
 
